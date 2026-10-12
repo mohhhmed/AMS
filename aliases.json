@@ -1,86 +1,196 @@
 {
- "Police Secrète Korellienne": [
-  "Secrète Korellienne",
-  "Police Secrète",
-  "Korellienne"
+ "Maître Marchand Eskel Gorov": [
+  "Maître Marchand Eskel",
+  "Marchand Eskel Gorov",
+  "Marchand Eskel",
+  "Eskel Gorov",
+  "Maître Marchand",
+  "Maître",
+  "Eskel",
+  "Marchand",
+  "Gorov"
  ],
- "Anselme Haut Rodric": [
-  "Anselme Haut",
-  "Haut Rodric",
-  "Rodric"
- ],
- "Dokor Walto Bort": [
-  "Dokor Walto",
-  "Walto",
-  "Bort"
- ],
- "Hardin Publis Manlio": [
+ "Building Hardin Publis Manlio": [
+  "Hardin Publis Manlio",
   "Publis Manlio",
   "Hardin",
   "Manlio"
  ],
- "Asper Argo": [
-  "Asper"
+ "Commodore Asper Argo": [
+  "Asper Argo",
+  "Commodore Asper",
+  "Asper",
+  "Commodore"
  ],
- "Gaal Dornick": [
-  "Dornick",
-  "Gaal"
+ "Le Premier Orateur": [
+  "Le Premier",
+  "Premier Orateur",
+  "Premier",
+  "Orateur"
  ],
- "Onum Barr": [
-  "Barr",
-  "Onum"
+ "La Seconde Fondation": [
+  "Seconde Fondation",
+  "La Seconde",
+  "Là",
+  "Fondation",
+  "La"
  ],
- "Lewis Pirenne": [
-  "Pirenne",
-  "Lewis"
+ "LE MULET": [
+  "Le Mulet"
  ],
- "Hober Mallow": [
-  "Hober"
+ "Le Maire Hardin": [
+  "Le Maire",
+  "Maire Hardin",
+  "LE",
+  "Le",
+  "Maire"
  ],
- "Hardin Excellence": [
-  "Excellence"
- ],
- "Aporat Lefkin": [
-  "Lefkin"
- ],
- "Eskel Gorov": [
-  "Gorov",
-  "Eskel"
- ],
- "Cassandre Seldon": [
-  "Cassandre"
- ],
- "Aporat Commencez": [
-  "Aporat"
- ],
- "Trantor ENCYCLOPEDIA GALACTICA": [
+ "GALACTICA Bel Riose": [
+  "Bel Riose",
+  "Riose",
+  "Bel",
   "GALACTICA"
  ],
- "Salvor Hardin": [
-  "Salvor"
+ "Anselme Haut Rodric": [
+  "Anselme Haut",
+  "Rodric"
  ],
- "Hari Seldon": [
-  "Hari"
+ "LE PROCUREUR": [
+  "Le Procureur",
+  "Procureur"
  ],
- "Seldon Mallow": [
-  "Mallow",
+ "Premier CITOYEN": [
+  "Premier Citoyen"
+ ],
+ "Ebling MIS": [
+  "Ebling Mis",
+  "Mis",
+  "Ebling"
+ ],
+ "Second Foundation Traduction": [
+  "Second Foundation"
+ ],
+ "Bail Channis": [
+  "BAIL CHANNIS",
+  "Bail",
+  "Channis"
+ ],
+ "Première FONDATION": [
+  "Première Fondation"
+ ],
+ "Han Pr": [
+  "Han",
+  "Pr"
+ ],
+ "Gaal Dornick": [
+  "Gaal",
+  "Dornick"
+ ],
+ "Dame Callia": [
+  "Callia"
+ ],
+ "PDQ XYré": [
+  "PDQ"
+ ],
+ "Cassandre Seldon": [
+  "Cassandre",
   "Seldon"
- ],
- "Jord Parma": [
-  "Jord",
-  "Parma"
  ],
  "Jaim Twer": [
   "Jaim",
   "Twer"
  ],
- "Sutt Mallow": [
-  "Sutt"
+ "Ducem Barr": [
+  "Ducem"
  ],
- "Pherl Ponyets": [
-  "Ponyets"
+ "Hari Seldon": [
+  "Hari"
  ],
- "Esprit Pherl": [
+ "Lathan Devers": [
+  "Devers",
+  "Lathan"
+ ],
+ "Lewis Bort": [
+  "Bort",
+  "Lewis"
+ ],
+ "Pelleas Anthor": [
+  "Pelleas",
+  "Anthor"
+ ],
+ "Homir Munn": [
+  "Munn",
+  "Homir"
+ ],
+ "Bayta Dare": [
+  "Bayta"
+ ],
+ "Hober Mallow": [
+  "Hober",
+  "Mallow"
+ ],
+ "Dokor Walto": [
+  "Walto"
+ ],
+ "Lewis Pirenne": [
+  "Pirenne"
+ ],
+ "Aînés Pherl": [
   "Pherl"
+ ],
+ "Salvor Hardin": [
+  "Salvor"
+ ],
+ "Seigneur Stettin": [
+  "Stettin"
+ ],
+ "Maire Indbur": [
+  "Indbur"
+ ],
+ "Bayta Toran": [
+  "Toran"
+ ],
+ "Jord Commason": [
+  "Jord",
+  "Commason"
+ ],
+ "Arcadia Darell": [
+  "Darell",
+  "Arcadia"
+ ],
+ "Plan Seldon": [
+  "Plan"
+ ],
+ "Marchands Indépendants": [
+  "Indépendants"
+ ],
+ "Han Pritche": [
+  "Pritche"
+ ],
+ "DAME Cailla": [
+  "Dame"
+ ],
+ "Han Pritcher": [
+  "Pritcher"
+ ],
+ "Le Renard": [
+  "Renard"
+ ],
+ "Onum Barr": [
+  "Onum",
+  "Barr"
+ ],
+ "Le Conseil": [
+  "Conseil"
+ ],
+ "Seigneur Stellin": [
+  "Seigneur"
+ ],
+ "Empire Galactique": [
+  "Galactique",
+  "Empire"
+ ],
+ "Orum Dirige": [
+  "Dirige"
  ]
 }
